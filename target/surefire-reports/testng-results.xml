@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GenericScripts.Test12" duration-ms="27" started-at="2021-03-04T08:19:16Z" finished-at="2021-03-04T08:19:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="27" started-at="2021-03-04T08:19:16Z" finished-at="2021-03-04T08:19:16Z">
+      <class name="GenericScripts.Test12">
+        <test-method status="PASS" signature="PreC()[pri:0, instance:GenericScripts.Test12@17550481]" name="PreC" is-config="true" duration-ms="7732" started-at="2021-03-04T08:19:08Z" finished-at="2021-03-04T08:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreC -->
+        <test-method status="PASS" signature="assertTest()[pri:0, instance:GenericScripts.Test12@17550481]" name="assertTest" duration-ms="3" started-at="2021-03-04T08:19:16Z" finished-at="2021-03-04T08:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTest -->
+      </class> <!-- GenericScripts.Test12 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- GenericScripts.Test12 -->
+</testng-results>
